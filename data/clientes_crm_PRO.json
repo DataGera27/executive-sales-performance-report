@@ -1,0 +1,32 @@
+[
+    {
+        "cliente_id":"C-01",
+        "email":"juan@gmail.com",
+        "email_valido":1,
+        "pais":"Estados Unidos"
+    },
+    {
+        "cliente_id":"C-02",
+        "email":"mariagmail.com (Dominio no existe)",
+        "email_valido":0,
+        "pais":"Estados Unidos"
+    },
+    {
+        "cliente_id":"C-03",
+        "email":"pedro_dev@outlook.com",
+        "email_valido":1,
+        "pais":"Estados Unidos"
+    },
+    {
+        "cliente_id":"C-04",
+        "email":"clara@tech.org",
+        "email_valido":1,
+        "pais":"Espa\u00f1a"
+    },
+    {
+        "cliente_id":"C-05",
+        "email":"alberto#domain.com (Dominio no existe)",
+        "email_valido":0,
+        "pais":"Espa\u00f1a"
+    }
+]

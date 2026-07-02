@@ -1,0 +1,4 @@
+codigo_pago,metodo
+P01,Credit Card
+P02,Paypal
+P03,Stripe
