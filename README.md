@@ -1,5 +1,8 @@
 \# Executive Sales \& Performance Report: End-to-End Data Pipeline
 
+<img width="873" height="492" alt="image" src="https://github.com/user-attachments/assets/451b927d-4fa6-4222-8fc4-5a30a04c1f6f" />
+
+
 
 
 \## 📌 Project Overview
